@@ -12,7 +12,7 @@ function App(){
     <button onClick={() => dispatch(increment())}>Increment</button>
     <button onClick={() => dispatch(decrement())}>Decrement</button>
     <button onClick={() => dispatch(reset())}>Reset</button>
-
+    <h1>first commit</h1>
     </>
   )
 }
